@@ -2,7 +2,7 @@
 
 Google colab link : https://colab.research.google.com/drive/1muMAPiGhOd98zCap6-CLRSjxjC42PCpx?usp=sharing
 
-To recreate the cluster results from the KMeansModel, place the provided preprocessed CSV file (`task_02_preprocessed.csv`) in the project directory and load it into a pandas DataFrame:
+To visualize the cluster results from the clustering algorithms, place the provided preprocessed CSV file (`task_02_preprocessed.csv`) in the project directory and load it into a pandas DataFrame:
 
 ```python
 import pandas as pd
